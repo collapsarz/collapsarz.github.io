@@ -1,2 +1,2 @@
 # collapsar.github.io
-个人静态网页部署
+个人网页部署
